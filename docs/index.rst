@@ -32,8 +32,8 @@ Contents
 ============
 Installation
 ============
-Since xdress is pure Python code, the ``pip`` or ``easy_install`` may be used
-to grab and install the code::
+Since xdress is pure Python code, the ``pip`` or ``pip3`` or ``easy_install`` may be used
+to grab and install the code::(replace pip with pip3 for python3)::
 
     $ pip install xdress
 
